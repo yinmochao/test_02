@@ -1,1 +1,1 @@
-manage is a pig
+num1=100 #工人
